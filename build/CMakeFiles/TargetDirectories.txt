@@ -1,0 +1,5 @@
+/home/breeki/src/neuralfishing/build/CMakeFiles/rebuild_cache.dir
+/home/breeki/src/neuralfishing/build/CMakeFiles/edit_cache.dir
+/home/breeki/src/neuralfishing/build/CMakeFiles/fishin.dir
+/home/breeki/src/neuralfishing/build/CMakeFiles/nn_math.dir
+/home/breeki/src/neuralfishing/build/CMakeFiles/neural_net.dir

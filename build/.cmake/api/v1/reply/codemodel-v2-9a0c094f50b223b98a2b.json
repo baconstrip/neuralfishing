@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "NeuralFishing",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "fishin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fishin-2bb6f5dedc35e944ce76.json",
+					"name" : "fishin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "neural_net::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-neural_net-394505fc62eb4f8eedeb.json",
+					"name" : "neural_net",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nn_math::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nn_math-1e0147b1f904511ecc4a.json",
+					"name" : "nn_math",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/breeki/src/neuralfishing/build",
+		"source" : "/home/breeki/src/neuralfishing"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

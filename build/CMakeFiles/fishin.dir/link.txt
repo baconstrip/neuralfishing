@@ -1,0 +1,1 @@
+/usr/bin/clang++-10   -march=native       -rdynamic CMakeFiles/fishin.dir/main.cpp.o CMakeFiles/neural_net.dir/neural/real_layer.cpp.o CMakeFiles/nn_math.dir/math/util.cpp.o  -o bin/fishin  -lm -lomp -lpthread 

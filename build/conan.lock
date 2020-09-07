@@ -1,0 +1,24 @@
+{
+ "graph_lock": {
+  "nodes": {
+   "0": {
+    "options": "",
+    "requires": [
+     "1"
+    ],
+    "path": "../conanfile.py",
+    "context": "host"
+   },
+   "1": {
+    "ref": "eigen/3.3.7",
+    "options": "",
+    "package_id": "5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9",
+    "prev": "0",
+    "context": "host"
+   }
+  },
+  "revisions_enabled": false
+ },
+ "version": "0.4",
+ "profile_host": "[settings]\narch=x86_64\ncompiler=clang\ncompiler.libcxx=libstdc++11\ncompiler.version=10\nos=Linux\n[options]\n[build_requires]\n[env]\nCC=/usr/bin/clang\nCXX=/usr/bin/clang++"
+}
