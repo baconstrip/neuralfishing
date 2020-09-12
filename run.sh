@@ -7,7 +7,7 @@ rm -rf build
 mkdir build 
 pushd build
 
-conan install .. --profile=clang
+conan install ..
 cmake .. -DCMAKE_BUILD_TYPE=Debug
 cmake --build .
 
